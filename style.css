@@ -26,7 +26,7 @@ div.main img{
 div.sun {
   height: 250px;
   width: 14%;
-  background-image: url(/images/sun.png);
+  background-image: url(images/sun.png);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 100%;
